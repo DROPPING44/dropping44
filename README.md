@@ -8,10 +8,15 @@ Mi alma está hecha de líneas de código y circuitos. Soy un entusiasta del hac
 **Mis Armas Digitales 🛡️**
 -
 Python: Mi lenguaje de programación preferido. Lo uso para crear scripts y herramientas personalizadas.
+<p>
 Kali Linux: Mi sistema operativo de elección para la ciberseguridad.
+  <p>
 Wireshark: Para analizar el tráfico de red y desentrañar sus secretos.
+    <p>
 Metasploit: Una herramienta poderosa para pruebas de penetración.
+      <p>
 Burp Suite: Para encontrar y explotar vulnerabilidades web.
+<p>
 
 *MI CURRICULUM* https://drive.google.com/file/d/1YvBy3IOgerLeNd5xyltgs05-GmUujWFW/view?usp=sharing
 
