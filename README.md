@@ -52,4 +52,5 @@ Si compartes mi pasión por la tecnología, la ciberseguridad o la exploración,
 ![image](https://github.com/DROPPING44/dropping44/assets/74171653/2b433f30-1f53-41db-9a71-8abe1d567274)
 
 
-Hugo - El Hacker Curioso y el Viajero Intrépido
+**Hugo - El Hacker Curioso y el Viajero Intrépido**
+-
