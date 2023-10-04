@@ -13,7 +13,7 @@ Wireshark: Para analizar el tráfico de red y desentrañar sus secretos.
 Metasploit: Una herramienta poderosa para pruebas de penetración.
 Burp Suite: Para encontrar y explotar vulnerabilidades web.
 
-<p>This is <a href="[http://example.com/](https://drive.google.com/file/d/1YvBy3IOgerLeNd5xyltgs05-GmUujWFW/view?usp=sharing)" title="MI CURRICULUM">
+This is [an example](http://example.com/ "Title") inline link.
 
 **✈️ El Viajero Intrépido**
 -
