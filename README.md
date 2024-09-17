@@ -55,7 +55,7 @@ Si compartes mi pasión por la tecnología, la ciberseguridad o la exploración,
 
 ¡Gracias por visitar mi espacio creativo! 🚀
 
-![image](https://github.com/DROPPING44/dropping44/assets/74171653/2b433f30-1f53-41db-9a71-8abe1d567274](https://github.com/DROPPING44/dropping44/blob/main/Imagen%20de%20WhatsApp%202024-09-17%20a%20las%2012.31.40_a85e1726.jpg?raw=true)
+![image][(https://github.com/DROPPING44/dropping44/assets/74171653/2b433f30-1f53-41db-9a71-8abe1d567274](https://github.com/DROPPING44/dropping44/blob/main/Imagen%20de%20WhatsApp%202024-09-17%20a%20las%2012.31.40_a85e1726.jpg?raw=true])
 
 
 **Hugo - El Hacker Curioso y el Viajero Intrépido**
