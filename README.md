@@ -32,7 +32,13 @@ Aunque me siento más en casa frente a una pantalla de computadora, no puedo res
 <p>
 🏝️ LISBOA
 <p>
-  
+🚗 DUSSELDORF
+<p>
+
+🏔️ OSLO
+<p>
+
+
 **🚀 Mis Metas y Aspiraciones**
 -
 Mi camino está marcado por el deseo de aprender y crecer constantemente. Mis metas incluyen:
